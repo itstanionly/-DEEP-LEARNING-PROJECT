@@ -105,3 +105,6 @@ This project was completed as part of my **Data Science Internship at CodTech**.
 ## 📌 Contact
 
 For any queries or feedback, feel free to reach out via GitHub or email.
+
+## Sample Output![t2](https://github.com/user-attachments/assets/9b43f2eb-ef4e-4994-b8c6-7b497a71b3ba)
+
